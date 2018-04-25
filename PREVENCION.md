@@ -24,3 +24,15 @@ Ademas de tu propio conocimeint tambien puedes agregar una seguirdad extra, como
 de informacion, por lo que no escatimes en gastos y piensa en obtener uno
 
 ![](https://fthmb.tqn.com/UIELo6yaAApHU1tNr0JhpOvy3Rg=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/antivirus-5a72401a8e1b6e0037eca70b.jpg)
+
+
+[DEFINICION](https://kalm2000.github.io/Mesa-5/DEFINICION)
+
+[ORIGEN](https://kalm2000.github.io/Mesa-5/ORIGEN)
+
+[TIPOS](https://kalm2000.github.io/Mesa-5/TIPOS)
+
+[PRINCIPALES](https://kalm2000.github.io/Mesa-5/PRINCIPALES)
+
+[PREVENCION](https://kalm2000.github.io/Mesa-5/PREVENCION)
+
