@@ -1,4 +1,7 @@
 # Origen de los hackers
+
+## Historia
+
 En los comienzos del siglo XXI la palabra "hacker" se ha convertido en sinónimo de gente que siembra el terror en Internet, de forma anónima, oculta en oscuras salas. Pero no siempre ha sido así. Los hackers originales eran, de hecho, benignos estudiantes.
 
 Para cualquiera que cursara sus estudios en el Instituto de Tecnología de Massachusetts (MIT, por sus siglas en inglés) durante las décadas de 1950 y 1960, la palabra "hack" se refería a una solución simple, creativa y elegante para un problema.
