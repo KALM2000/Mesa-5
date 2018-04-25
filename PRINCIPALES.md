@@ -24,3 +24,16 @@ Es conocido en el mundo informático como “El hacker vagabundo” por hacer to
 Comenzó su carrera como hacker de sistemas telefónicos para realizar llamadas gratis; se dice que hasta llamó al Papa en los años 70. Formó Apple Computer con su amigo Steve Jobs y hoy apoya a comunidades educativas de escasos recursos con moderna tecnología.
 
 ![](https://static.giantbomb.com/uploads/square_small/0/1099/1090606-1090008_wozniak2_super.jpg)
+
+
+
+[DEFINICION](https://kalm2000.github.io/Mesa-5/DEFINICION)
+
+[ORIGEN](https://kalm2000.github.io/Mesa-5/ORIGEN)
+
+[TIPOS](https://kalm2000.github.io/Mesa-5/TIPOS)
+
+[PRINCIPALES](https://kalm2000.github.io/Mesa-5/PRINCIPALES)
+
+[PREVENCION](https://kalm2000.github.io/Mesa-5/PREVENCION)
+
