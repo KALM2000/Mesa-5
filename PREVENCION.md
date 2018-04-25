@@ -36,3 +36,7 @@ de informacion, por lo que no escatimes en gastos y piensa en obtener uno
 
 [PREVENCION](https://kalm2000.github.io/Mesa-5/PREVENCION)
 
+[WIKI](https://github.com/KALM2000/Mesa-5/wiki/Hackers)
+
+[KANBAN](https://github.com/KALM2000/Mesa-5/projects/1)
+
