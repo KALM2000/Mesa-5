@@ -21,8 +21,12 @@ Carlos Enrique Ibarra Rivas (IbarraRivasCarlosEnrique)
 
 
 [DEFINICION](https://kalm2000.github.io/Mesa-5/DEFINICION)
+
 [ORIGEN](https://kalm2000.github.io/Mesa-5/ORIGEN)
+
 [TIPOS](https://kalm2000.github.io/Mesa-5/TIPOS)
+
 [PRINCIPALES](https://kalm2000.github.io/Mesa-5/PRINCIPALES)
+
 [PREVENCION](https://kalm2000.github.io/Mesa-5/PREVENCION)
 
