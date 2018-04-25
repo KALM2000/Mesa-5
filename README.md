@@ -32,5 +32,5 @@ Carlos Enrique Ibarra Rivas (IbarraRivasCarlosEnrique)
 
 [WIKI](https://github.com/KALM2000/Mesa-5/wiki/Hackers)
 
-[KANBAL](https://github.com/KALM2000/Mesa-5/projects/1)
+[KANBAN](https://github.com/KALM2000/Mesa-5/projects/1)
 
