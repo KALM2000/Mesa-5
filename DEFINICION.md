@@ -17,3 +17,7 @@ Por eso son conocidos como las personas que te alteran o roban tu informacion si
 
 [PREVENCION](https://kalm2000.github.io/Mesa-5/PREVENCION)
 
+[WIKI](https://github.com/KALM2000/Mesa-5/wiki/Hackers)
+
+[KANBAN](https://github.com/KALM2000/Mesa-5/projects/1)
+
