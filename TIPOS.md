@@ -6,3 +6,17 @@
 | Crackers  |Su fin además de incrustar virus, malware y robar datos o contraseñas es violentar software original (de cualquier tipo) y extender sus funcionalidades.   | Su fin es monetario pero tambien roban las cosas y lo ponen como gratuitos |
 | Phreaker  |Es el Hacker encargado de las telecomunicaciones, móviles, voz sobre IP, etc.   | Para interrumpir en las comunicaciones  |
 | Newbie o Novato  |Solo tienen conocimientos generales sobre los ordenadores y para lograr su objetivo se valen de tutoriales, sitios sobre hacking, software diseñado, etc.| Tratan de ser Hackers para sentirse importantes  |
+
+
+
+
+
+[DEFINICION](https://kalm2000.github.io/Mesa-5/DEFINICION)
+
+[ORIGEN](https://kalm2000.github.io/Mesa-5/ORIGEN)
+
+[TIPOS](https://kalm2000.github.io/Mesa-5/TIPOS)
+
+[PRINCIPALES](https://kalm2000.github.io/Mesa-5/PRINCIPALES)
+
+[PREVENCION](https://kalm2000.github.io/Mesa-5/PREVENCION)
